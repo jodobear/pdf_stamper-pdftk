@@ -1,6 +1,6 @@
 # PDF Stamper using pdftk library
 
-This python script batch stamps/watermarks pdf documents.
+This python script batch stamps/watermarks pdf documents on ubuntu based linux.
 
 ### NOTE: Save this script in it's dedicated folder. The folder should only contain this script.
 
